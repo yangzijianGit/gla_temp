@@ -4,7 +4,7 @@
 
 ### 注册一个GLaDOS的账号([注册地址](https://glados.space/landing/4CJN6-65T8Q-DNJRM-NXEA6))
 
-#### 我的邀请码：4CJN6-65T8Q-DNJRM-NXEA6
+#### 我的邀请码：M8WGU-E9AK5-ZSIL4-IN9J8
 
 ### **Fork**本仓库
 
